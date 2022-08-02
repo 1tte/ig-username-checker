@@ -1,7 +1,7 @@
 # INSTAGRAM USERNAME CHECKER
 Just for fun !
 
-If u want to change the lenght of username, u can edit it at
+If u want to change the length of username, u can edit it at
 ```bash
 function RandomString($length = 5)
 ```
