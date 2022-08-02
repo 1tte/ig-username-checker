@@ -20,7 +20,7 @@ $ git clone https://github.com/magelang9etar/ig-username-checker
 $ cd ig-username-checker
 
 # Run the app
-$ php ig.php
+$ php ign.php
 
 # Put how many do u want to check
 $ How many user do you want to generate? 1337
