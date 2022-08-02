@@ -1,7 +1,6 @@
 <?php
 
 //* Made by <3 with Coffe
-//* Super thanks to Nicsx to make this useless tools created.
 
 class instagramChecker{
    public function curl($data){
